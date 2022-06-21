@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "changepoints"]
+	path = changepoints
+	url = https://github.com/haotianxu/changepoints
+	shallow = true
+	registered = true
